@@ -1,0 +1,6 @@
+bikin fungsi baru lebih baik daripada bikin inline klo soal kondisi
+kalau ada "cannot use geometry manager grid inside .." maka itu masalah grid dan pack
+jadi grid sama pact gk boleh satu frame
+
+anak2 diajarin manual aja, jangan otomatis
+separator tuh garis pembatas doang, jadi separatornya abaikan dlu
